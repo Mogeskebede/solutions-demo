@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CI/CD Demo for Solution community APP
+          CI/CD Demo for Solution community APP.
+
+          I am deployed using GitHub actions CI/CD tool
         </a>
       </header>
     </div>
